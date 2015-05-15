@@ -15,6 +15,10 @@ https://resizeappicon.com/
 今は暫定のものを使っている。  
 将来的には時間の経過にそって苗から稲に育っていく用アイコンを複数用意する。  
 初回リリースでは田植え時と稲刈りの２つあればいい。  
+  
+http://flode-design.com/  
+http://www.sozaiyakoaki.com/jan/komedawara/  
+
 
 ### 画面下にある画面切り替えボタンのアイコン
 まだ。  
