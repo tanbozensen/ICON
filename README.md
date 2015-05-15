@@ -16,19 +16,17 @@ https://resizeappicon.com/
   
 ・田植え時  
 ![](マップマーカーアイコン/nae40.png)  
-フリー素材  
-http://flode-design.com/  
+フリー素材 http://flode-design.com/  
   
   
 ・稲刈り時  
 ![](マップマーカーアイコン/tawara30.png)  
-フリー素材  
-http://www.sozaiyakoaki.com/jan/komedawara/  
+フリー素材 http://www.sozaiyakoaki.com/jan/komedawara/  
   
   
 ・特殊モード  
 ![](マップマーカーアイコン/Bossan220.png)  
-フリー素材  
+フリー素材 ぼっさん 
   
   
 ### 画面下にある画面切り替えボタンのアイコン
